@@ -1,4 +1,4 @@
-# 
+# 智能 AI leaf disease detection system 主题。集成 神经网络 和 实时处理，性能最大化。
 
 
 
